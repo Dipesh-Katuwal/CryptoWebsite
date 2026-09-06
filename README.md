@@ -1,5 +1,7 @@
 # LiveCrypto
 
+**[Live Deom]**(https://dipesh-katuwal.github.io/CryptoWebsite/)
+
 A responsive cryptocurrency dashboard built with React and Vite. Browse market data, search for coins, sort the market list, switch between grid and list views, and open a detailed page with project information and a seven-day price chart.
 
 ## Features
